@@ -19,7 +19,8 @@ A lot of polish still needs to be done to allow for an end user to use this patc
 * Add checking of already installed mod patches
 * Add checking if mod patches installed are outdated
 * Add better processing bars to repo clones and pulling
-
+* Figure out better building of the jar release (i.e. better library management)
+* Right now need to run `zip -d name.jar META-INF/*.RSA META-INF/*.DSA META-INF/*.SF`
 
 ## Screenshot
 
